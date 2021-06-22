@@ -547,6 +547,10 @@ a {
   color: #fff;
 }
 
+.callout-signup {
+  transform: translateY(5rem);
+}
+
 .callout__heading {
   color: #fff;
   margin-top: 0;
@@ -648,6 +652,10 @@ a {
 .container {
   max-width: 1140px;
   margin: 0 auto;
+}
+
+.container-callout {
+  margin: 2rem auto;
 }
 
 /* Navigation Bar */
@@ -775,7 +783,7 @@ a {
 /* Features */
 .feature {
   gap: 4rem 2rem;
-  margin: 0;
+  margin: 12rem 0;
 }
 
 .feature:first-of-type {
